@@ -153,11 +153,11 @@ My work sits at the intersection of **AI and the Physical World** — I build en
 
 
 
-## 💬 Let's Connect
+## Let's Connect
 
 <p align="center">
   I'm actively looking for <strong>ML internships</strong>, <strong>research internships</strong>, <strong>ML/AI roles</strong>, and exciting <strong>collaborations</strong>.<br/>
-  Feel free to reach out — I respond fast! 🚀
+  Feel free to reach out — I respond fast!
 </p>
 
 <p align="center">
