@@ -76,8 +76,9 @@ My work sits at the intersection of **AI and the Physical World** — I build en
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>On-Device HAR — TinyML</h3>
       <a href="">
+        <strong>On-Device HAR — TinyML</strong>
+      </a>
       <p><strong>Scikit-learn · MicroPython · Arduino Nicla Vision</strong></p>
       <p>Collected 6-axis IMU data (50 Hz) for 13 activity classes. Generated 66 statistical features via sliding-window segmentation. Deployed a lightweight Decision Tree for <strong>real-time on-device inference</strong> using MicroPython.</p>
       <p>
@@ -87,8 +88,9 @@ My work sits at the intersection of **AI and the Physical World** — I build en
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>Steel Surface Defect Classification</h3>
-      <a href="https://github.com/kunalkongari/Steel-Surface-Defect-Classification">
+    <a href="https://github.com/kunalkongari/Steel-Surface-Defect-Classification">
+      <strong>Steel Surface Defect Classification</strong>
+    </a>
       <p><strong>TensorFlow · EfficientNet-B0 · tf.data</strong></p>
       <p>CNN classifier for 6 defect types across ~1,800 images. Fine-tuned EfficientNet-B0 (ImageNet pretrained) with data augmentation and regularization. Achieved <strong>95.56% validation accuracy</strong>.</p>
       <p>
@@ -100,8 +102,9 @@ My work sits at the intersection of **AI and the Physical World** — I build en
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Credit Card Fraud Detection</h3>
       <a href="">
+        <strong>Credit Card Fraud Detection</strong>
+      </a>
       <p><strong>Scikit-learn · SMOTE · Imbalanced Learning</strong></p>
       <p>End-to-end fraud detection system trained on imbalanced transaction data for accurate anomaly detection. Implements data preprocessing, <strong>SMOTE balancing</strong>, and model evaluation to deliver high precision and recall in <strong>real-time fraud identification</strong>.</p>
       <p>
@@ -111,8 +114,9 @@ My work sits at the intersection of **AI and the Physical World** — I build en
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>FIFA 2026 World Cup Predictor</h3>
       <a href="https://github.com/kunalkongari/FifaWorldCupOracle-ML">
+        <strong>FIFA 2026 World Cup Predictor</strong>
+      </a>
       <p><strong>ELO Ratings · XGBoost · Monte Carlo Simulation</strong></p>
       <p>End-to-end football match prediction system using ELO ratings, feature engineering, and XGBoost to model team strength and outcomes. Simulates the full FIFA 2026 tournament via <strong>Monte Carlo methods</strong> for probabilistic winner and progression insights.</p>
       <p>
@@ -124,8 +128,9 @@ My work sits at the intersection of **AI and the Physical World** — I build en
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Movie Recommender System</h3>
       <a href="https://github.com/kunalkongari/Cinematch-W2V-Recommender">
+        <strong>Movie Recommender System</strong>
+      </a>
       <p><strong>Word2Vec · Cosine Similarity · Deployed Web App</strong></p>
       <p>AI-powered recommendation system using Word2Vec embeddings and cosine similarity to understand <strong>semantic relationships</strong> between movies. Delivers real-time, content-based suggestions via a deployed web app with rich metadata — posters, cast, and similarity scores.</p>
       <p>
