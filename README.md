@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MTech%20Smart%20Manufacturing-IISc%20Bangalore-blue?style=flat-square" />
+  <a href="https://dm.iisc.ac.in/dm/member/kunal-ganesh-kongari/"><img src="https://img.shields.io/badge/MTech%20Smart%20Manufacturing-IISc%20Bangalore-blue?style=flat-square" /></a>
   <img src="https://img.shields.io/badge/CGPA-8.2%20%2F%2010-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/GATE%202025-AIR%20150-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Status-Open%20To%20Opportunities-success?style=flat-square" />
