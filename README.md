@@ -19,7 +19,7 @@
 
 ## About Me
 
-I'm **Kunal Ganesh Kongari**, an MTech student in **Smart Manufacturing at the Indian Institute of Science (IISc), Bangalore**.
+I'm **Kunal Kongari**, an MTech student in **Smart Manufacturing at the Indian Institute of Science (IISc), Bangalore**.
 
 My work sits at the intersection of **AI and the Physical World** — I build end-to-end ML systems ranging from on-device TinyML deployments on microcontrollers to deep learning pipelines for industrial computer vision.
 
