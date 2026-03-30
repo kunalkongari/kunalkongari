@@ -76,8 +76,8 @@ My work sits at the intersection of **AI and the Physical World** — I build en
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="">
-        <strong>On-Device HAR — TinyML</strong>
+      <a href="https://github.com/kunalkongari/Human-Activity-Recognition-using-IMU-Sensors">
+        <strong>Human-Activity-Recognition-using-IMU-SensorsL</strong>
       </a>
       <p><strong>Scikit-learn · MicroPython · Arduino Nicla Vision</strong></p>
       <p>Collected 6-axis IMU data (50 Hz) for 13 activity classes. Generated 66 statistical features via sliding-window segmentation. Deployed a lightweight Decision Tree for <strong>real-time on-device inference</strong> using MicroPython.</p>
