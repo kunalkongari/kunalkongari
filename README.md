@@ -102,7 +102,7 @@ My work sits at the intersection of **AI and the Physical World** — I build en
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="">
+      <a href="https://github.com/kunalkongari/Credit-Card-Fraud-Detection-Dashboard">
         <strong>Credit Card Fraud Detection</strong>
       </a>
       <p><strong>Scikit-learn · SMOTE · Imbalanced Learning</strong></p>
