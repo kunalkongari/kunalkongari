@@ -76,6 +76,18 @@ My work sits at the intersection of **AI and the Physical World** — I build en
 <table>
   <tr>
     <td width="50%" valign="top">
+  <a href="https://github.com/kunalkongari/StressGNO-Graph-Neural-Operator-for-Stress-Prediction">
+    <strong>StressGNO: Graph Neural Operator for Stress Prediction</strong>
+  </a>
+  <p><strong>PyTorch · PyTorch Geometric · Graph Neural Networks · FEA</strong></p>
+  <p>Developed a <strong>Graph Neural Operator (GNO)</strong> surrogate model to predict structural stress fields from mesh-based inputs, replacing expensive FEA simulations. Achieved <strong>R² = 0.9956</strong> with <strong>10,000× faster inference</strong> (milliseconds vs hours).</p>
+  <p>
+    <img src="https://img.shields.io/badge/R²%20Score-0.9956-brightgreen?style=flat-square" />
+    <img src="https://img.shields.io/badge/10%2C000×%20Speedup-blue?style=flat-square" />
+    <img src="https://img.shields.io/badge/GNN%20%2B%20Physics-orange?style=flat-square" />
+  </p>
+</td>
+    <td width="50%" valign="top">
       <a href="https://github.com/kunalkongari/Human-Activity-Recognition-using-IMU-Sensors">
         <strong>Human Activity Recognition using IMU Sensors</strong>
       </a>
@@ -139,18 +151,6 @@ My work sits at the intersection of **AI and the Physical World** — I build en
         <img src="https://img.shields.io/badge/Semantic%20NLP-D14836?style=flat-square" />
       </p>
     </td>
-    <td width="50%" valign="top">
-  <a href="https://github.com/kunalkongari/StressGNO-Graph-Neural-Operator-for-Stress-Prediction">
-    <strong>StressGNO: Graph Neural Operator for Stress Prediction</strong>
-  </a>
-  <p><strong>PyTorch · PyTorch Geometric · Graph Neural Networks · FEA</strong></p>
-  <p>Developed a <strong>Graph Neural Operator (GNO)</strong> surrogate model to predict structural stress fields from mesh-based inputs, replacing expensive FEA simulations. Achieved <strong>R² = 0.9956</strong> with <strong>10,000× faster inference</strong> (milliseconds vs hours).</p>
-  <p>
-    <img src="https://img.shields.io/badge/R²%20Score-0.9956-brightgreen?style=flat-square" />
-    <img src="https://img.shields.io/badge/10%2C000×%20Speedup-blue?style=flat-square" />
-    <img src="https://img.shields.io/badge/GNN%20%2B%20Physics-orange?style=flat-square" />
-  </p>
-</td>
 
 
 
