@@ -87,33 +87,6 @@ My work sits at the intersection of **AI and the Physical World** — I build en
     <img src="https://img.shields.io/badge/GNN%20%2B%20Physics-orange?style=flat-square" />
   </p>
 </td>
-    <tr>
-  <td width="50%" valign="top">
-    <a href="https://github.com/kunalkongari/autostream-ai-agent">
-      <strong>AutoStream AI Agent (Agentic Workflow System)</strong>
-    </a>
-    <p><strong>LangGraph · LLM (Llama 3) · RAG · FastAPI · Redis</strong></p>
-    <p>Built a <strong>stateful AI agent</strong> with intent classification, RAG-based responses, and tool-calling for lead capture. Designed a <strong>LangGraph FSM workflow</strong> enabling multi-turn memory, high-intent detection, and production-ready deployment via WhatsApp webhooks.</p>
-    <p>
-      <img src="https://img.shields.io/badge/Agentic%20AI-8A2BE2?style=flat-square" />
-      <img src="https://img.shields.io/badge/RAG%20Pipeline-FF6F00?style=flat-square" />
-      <img src="https://img.shields.io/badge/LangGraph-FSM-blue?style=flat-square" />
-    </p>
-  </td>
-
-  <td width="50%" valign="top">
-    <a href="https://github.com/kunalkongari/PuzzleMe-Analytics">
-      <strong>PuzzleMe Engagement & Retention Analytics</strong>
-    </a>
-    <p><strong>Python · Pandas · SQL · Plotly · Streamlit</strong></p>
-    <p>Built an end-to-end analytics dashboard simulating <strong>5,000 users and 37K sessions</strong>. Performed cohort analysis across 15 cohorts to identify <strong>week-1 churn as the key drop-off</strong>, enabling data-driven retention strategies.</p>
-    <p>
-      <img src="https://img.shields.io/badge/Cohort%20Analysis-013243?style=flat-square" />
-      <img src="https://img.shields.io/badge/Retention%20Insights-brightgreen?style=flat-square" />
-      <img src="https://img.shields.io/badge/Analytics%20Dashboard-FF4B4B?style=flat-square" />
-    </p>
-  </td>
-</tr>
     <td width="50%" valign="top">
       <a href="https://github.com/kunalkongari/Human-Activity-Recognition-using-IMU-Sensors">
         <strong>Human Activity Recognition using IMU Sensors</strong>
