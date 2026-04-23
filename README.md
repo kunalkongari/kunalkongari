@@ -75,7 +75,19 @@ My work sits at the intersection of **AI and the Physical World** — I build en
 
 <table>
     <tr>
-    <td width="50%" valign="top">
+      <td width="50%" valign="top">
+    <a href="https://github.com/kunalkongari/autostream-ai-agent">
+      <strong>AutoStream AI Agent (Agentic Workflow System)</strong>
+    </a>
+    <p><strong>LangGraph · LLM (Llama 3) · RAG · FastAPI · Redis</strong></p>
+    <p>Developed a <strong>stateful AI agent</strong> with intent classification, RAG-based responses, and tool-calling pipeline. Implemented a <strong>LangGraph FSM workflow</strong> with multi-turn memory and automated lead capture system.</p>
+    <p>
+      <img src="https://img.shields.io/badge/Agentic%20AI-8A2BE2?style=flat-square" />
+      <img src="https://img.shields.io/badge/RAG%20Pipeline-FF6F00?style=flat-square" />
+      <img src="https://img.shields.io/badge/LangGraph-FSM-blue?style=flat-square" />
+    </p>
+  </td>
+      <td width="50%" valign="top">
   <a href="https://github.com/kunalkongari/StressGNO-Graph-Neural-Operator-for-Stress-Prediction">
     <strong>StressGNO: Graph Neural Operator for Stress Prediction</strong>
   </a>
@@ -87,6 +99,8 @@ My work sits at the intersection of **AI and the Physical World** — I build en
     <img src="https://img.shields.io/badge/GNN%20%2B%20Physics-orange?style=flat-square" />
   </p>
 </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/kunalkongari/Human-Activity-Recognition-using-IMU-Sensors">
         <strong>Human Activity Recognition using IMU Sensors</strong>
@@ -99,8 +113,6 @@ My work sits at the intersection of **AI and the Physical World** — I build en
         <img src="https://img.shields.io/badge/13%20Activity%20Classes-F7931E?style=flat-square" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
     <a href="https://github.com/kunalkongari/Steel-Surface-Defect-Classification">
       <strong>Steel Surface Defect Classification</strong>
@@ -111,18 +123,6 @@ My work sits at the intersection of **AI and the Physical World** — I build en
         <img src="https://img.shields.io/badge/95.56%25%20Accuracy-brightgreen?style=flat-square" />
         <img src="https://img.shields.io/badge/Transfer%20Learning-FF6F00?style=flat-square" />
         <img src="https://img.shields.io/badge/6%20Defect%20Classes-5C3EE8?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/kunalkongari/Cinematch-W2V-Recommender">
-        <strong>Movie Recommender System</strong>
-      </a>
-      <p><strong>Word2Vec · Cosine Similarity · Deployed Web App</strong></p>
-      <p>AI-powered recommendation system using Word2Vec embeddings and cosine similarity to understand <strong>semantic relationships</strong> between movies. Delivers real-time, content-based suggestions via a deployed web app with rich metadata — posters, cast, and similarity scores.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Word2Vec-4479A1?style=flat-square" />
-        <img src="https://img.shields.io/badge/Deployed%20App-FF4B4B?style=flat-square" />
-        <img src="https://img.shields.io/badge/Semantic%20NLP-D14836?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -140,18 +140,32 @@ My work sits at the intersection of **AI and the Physical World** — I build en
       </p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/kunalkongari/FifaWorldCupOracle-ML">
-        <strong>FIFA 2026 World Cup Predictor</strong>
+      <a href="https://github.com/kunalkongari/Cinematch-W2V-Recommender">
+        <strong>Movie Recommender System</strong>
       </a>
-      <p><strong>ELO Ratings · XGBoost · Monte Carlo Simulation</strong></p>
-      <p>End-to-end football match prediction system using ELO ratings, feature engineering, and XGBoost to model team strength and outcomes. Simulates the full FIFA 2026 tournament via <strong>Monte Carlo methods</strong> for probabilistic winner and progression insights.</p>
+      <p><strong>Word2Vec · Cosine Similarity · Deployed Web App</strong></p>
+      <p>AI-powered recommendation system using Word2Vec embeddings and cosine similarity to understand <strong>semantic relationships</strong> between movies. Delivers real-time, content-based suggestions via a deployed web app with rich metadata — posters, cast, and similarity scores.</p>
       <p>
-        <img src="https://img.shields.io/badge/XGBoost-189AB4?style=flat-square" />
-        <img src="https://img.shields.io/badge/Monte%20Carlo-013243?style=flat-square" />
-        <img src="https://img.shields.io/badge/ELO%20Ratings-150458?style=flat-square" />
+        <img src="https://img.shields.io/badge/Word2Vec-4479A1?style=flat-square" />
+        <img src="https://img.shields.io/badge/Deployed%20App-FF4B4B?style=flat-square" />
+        <img src="https://img.shields.io/badge/Semantic%20NLP-D14836?style=flat-square" />
       </p>
     </td>
   </tr>
+  <tr>
+  <td width="50%" valign="top">
+    <a href="https://github.com/kunalkongari/FifaWorldCupOracle-ML">
+      <strong>FIFA 2026 World Cup Predictor</strong>
+    </a>
+    <p><strong>ELO Ratings · XGBoost · Monte Carlo Simulation</strong></p>
+    <p>End-to-end football match prediction system using ELO ratings, feature engineering, and XGBoost to model team strength and outcomes. Simulates the full FIFA 2026 tournament via <strong>Monte Carlo methods</strong> for probabilistic winner and progression insights.</p>
+    <p>
+      <img src="https://img.shields.io/badge/XGBoost-189AB4?style=flat-square" />
+      <img src="https://img.shields.io/badge/Monte%20Carlo-013243?style=flat-square" />
+      <img src="https://img.shields.io/badge/ELO%20Ratings-150458?style=flat-square" />
+    </p>
+  </td>
+</tr>
   
 
 
